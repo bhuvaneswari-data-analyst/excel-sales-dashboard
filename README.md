@@ -24,3 +24,4 @@ This project analyzes sales data and presents insights using an interactive Exce
 
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.jpg)
+📁 Excel file included for full analysis and data model
