@@ -23,4 +23,4 @@ This project analyzes sales data and presents insights using an interactive Exce
 - Consumer segment contributes most  
 
 ## 📸 Dashboard Preview
- ![Dashboard](Excel Dashboard.jpg)
+![Dashboard](Excel Dashboard.jpg)
